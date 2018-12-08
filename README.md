@@ -1,5 +1,3 @@
 # HMM
 
-# some practice
-
-# notebook
+notebook
